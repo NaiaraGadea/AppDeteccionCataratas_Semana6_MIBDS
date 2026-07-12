@@ -1,4 +1,3 @@
-# AppDeteccionCataratas_Semana6_MIBDS
 <image src="https://seeklogo.com/images/U/university-of-seville-logo-FF7A56A274-seeklogo.com.png" width="200">
  
 # App de Detección de Cataratas (2025-26)
